@@ -23,7 +23,7 @@ It helps you manage daily tasks, mark them as done, remove them, and track progr
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-cli.git
+   git clone https://github.com/ahsanraza1238999/To-do-list.git
    cd todo-list-cli
 2. Run main.py
 
